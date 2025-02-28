@@ -130,6 +130,10 @@ celerybeat.pid
 # Environments
 .env
 .venv
+<<<<<<< HEAD
+=======
+myenv/
+>>>>>>> 4a4a125 (первый коммит)
 env/
 venv/
 ENV/
@@ -168,4 +172,8 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypirc
+>>>>>>> 4a4a125 (первый коммит)
